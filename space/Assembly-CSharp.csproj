@@ -53,6 +53,7 @@
      <Compile Include="Assets\3rdPerson+Fly\Scripts\PlayerScripts\FlyBehaviour.cs" />
      <Compile Include="Assets\3rdPerson+Fly\Scripts\PlayerScripts\MoveBehaviour.cs" />
      <Compile Include="Assets\Scenes\Scripts\Spin.cs" />
+     <Compile Include="Assets\Starfield Skybox\Demo\Script\LookCamera.cs" />
      <None Include="Assets\Blockout\Resources\Blockout\Pins\Blockout_Pin_Shader.shader" />
      <None Include="Assets\Blockout\Resources\Blockout\Ruler\Ruler_Shader.shader" />
      <None Include="Assets\Blockout\Resources\Blockout\Shaders\Blockout_Comment_Shader.shader" />
